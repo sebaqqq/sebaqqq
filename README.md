@@ -1,4 +1,4 @@
-hola soy sebastian 
+#Hola soy Sebastian 
 
-Estudiante de la carrera Ingeneria Informatica 
+Estudiante de la carrera Ingeneria Informatica. 
 cursando el 3º año de la carrera
