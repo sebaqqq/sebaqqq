@@ -1,4 +1,4 @@
 Hola GitHub!!!
 
-Soy Sebastián Quintana!. Actualmente cursando el tercer año de la carrera ingeneria informatica. 
+Soy Sebastián Quintana!. Ingeniero informatico.
 Próximamente encontrarán más contenido en mi GitHub.
