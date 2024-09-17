@@ -1,4 +1,5 @@
 👋 ¡Hola, comunidad de GitHub!
+
 Soy Sebastián Quintana, Ingeniero Informático con una profunda pasión por la tecnología, el desarrollo de software y la creación de soluciones innovadoras. Mi objetivo es contribuir con proyectos que impulsen el crecimiento tecnológico y resuelvan problemas del mundo real.
 
 Actualmente, me encuentro trabajando en varios proyectos emocionantes que pronto compartiré en mi perfil. Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades y brindar soluciones eficientes y escalables.
