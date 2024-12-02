@@ -1,18 +1,61 @@
-👋 ¡Hola, comunidad de GitHub!
+<h1 align="center">👋 ¡Hola! Soy Sebastián Quintana</h1>
 
-Soy Sebastián Quintana, Ingeniero Informático con una profunda pasión por la tecnología, el desarrollo de software y la creación de soluciones innovadoras. Mi objetivo es contribuir con proyectos que impulsen el crecimiento tecnológico y resuelvan problemas del mundo real.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-avatar-id" alt="Sebastián Quintana" width="200px" style="border-radius:50%"/>
+</p>
 
-Actualmente, me encuentro trabajando en varios proyectos emocionantes que pronto compartiré en mi perfil. Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades y brindar soluciones eficientes y escalables.
+<p align="center">
+  <em>Ingeniero Informático apasionado por la tecnología, el desarrollo de software y la creación de soluciones innovadoras.</em>
+</p>
 
-🔧 Áreas de interés:
+---
 
-- Desarrollo de aplicaciones web y móviles.
-- Inteligencia de negocios (BI) y análisis de datos.
-- Backend con bases de datos y API RESTful.
-- Innovación en procesos digitales y automatización.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Desarrollador+Web+y+Móvil;Amante+de+la+Innovación+Tecnológica;Entusiasta+del+Análisis+de+Datos;Colaborador+y+Líder+de+Proyectos" alt="Typing SVG" />
+</p>
 
-⚡ ¿Qué esperar en mi perfil?
+---
 
-Próximamente agregaré repositorios con proyectos útiles, herramientas y colaboraciones, así que ¡no te lo pierdas!
+### 🔧 Áreas de interés:
+- **Desarrollo de aplicaciones web y móviles** 📱💻
+- **Inteligencia de negocios (BI) y análisis de datos** 📊
+- **Backend con bases de datos y API RESTful** 🔄
+- **Innovación en procesos digitales y automatización** 🤖
 
-Gracias por visitar mi perfil. Si te interesa colaborar o compartir ideas, no dudes en contactarme. ¡Siempre estoy abierto a nuevos desafíos y oportunidades de aprendizaje!
+---
+
+### 🚀 Tecnologías que domino:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+---
+
+### ⚡ ¿Qué encontrarás en mi perfil?
+- **Proyectos útiles y herramientas prácticas.**
+- **Colaboraciones interesantes y desafíos tecnológicos.**
+- **Soluciones escalables e innovadoras para problemas reales.**
+
+---
+
+### 🤝 ¡Conecta conmigo!
+<p>
+  <a href="https://linkedin.com/in/sebastianquintana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sebastian.quintana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>¡Gracias por visitar mi perfil! 🎉 Estoy siempre abierto a nuevas colaboraciones y oportunidades de aprendizaje.</em>
+</p>
