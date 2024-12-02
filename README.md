@@ -47,11 +47,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sebaqqq&theme=onedark" alt="Troféos de GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sebaqqq&theme=radical&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
-
 ---
 
 ### ⚡ ¿Qué encontrarás en mi perfil?
