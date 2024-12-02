@@ -1,10 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Sebastián Quintana</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-avatar-id" alt="Sebastián Quintana" width="200px" style="border-radius:50%"/>
-</p>
-
-<p align="center">
   <em>Ingeniero Informático apasionado por la tecnología, el desarrollo de software y la creación de soluciones innovadoras.</em>
 </p>
 
@@ -48,9 +44,6 @@
 <p>
   <a href="https://linkedin.com/in/sebastianquintana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sebastian.quintana@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
