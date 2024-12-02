@@ -33,6 +33,17 @@
 
 ---
 
+### 📈 Mis estadísticas en GitHub:
+
+![Sebastián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastianquintana&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianquintana&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sebastianquintana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://streak-stats.demolab.com?user=sebastianquintana&theme=radical&hide_border=true)
+
+
+
+---
+
 ### ⚡ ¿Qué encontrarás en mi perfil?
 - **Proyectos útiles y herramientas prácticas.**
 - **Colaboraciones interesantes y desafíos tecnológicos.**
