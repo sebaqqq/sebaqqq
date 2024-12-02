@@ -35,11 +35,21 @@
 
 ### 📈 Mis estadísticas en GitHub:
 
-![Sebastián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastianquintana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianquintana&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sebastianquintana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Streak](https://streak-stats.demolab.com?user=sebastianquintana&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebaqqq&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaqqq&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sebaqqq&theme=onedark" alt="Troféos de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sebaqqq&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+</p>
 
 
 ---
