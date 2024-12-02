@@ -42,7 +42,7 @@
 
 ### 🤝 ¡Conecta conmigo!
 <p>
-  <a href="https://linkedin.com/in/sebastianquintana" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastianestebanquintanaguti%C3%A9rrez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
