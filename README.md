@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Desarrollador+Web+y+Móvil;Amante+de+la+Innovación+Tecnológica;Entusiasta+del+Análisis+de+Datos;Colaborador+y+Líder+de+Proyectos" alt="Typing SVG" />
-</p>
-
----
-
 ### 🔧 Áreas de interés:
 - **Desarrollo de aplicaciones web y móviles** 📱💻
 - **Inteligencia de negocios (BI) y análisis de datos** 📊
