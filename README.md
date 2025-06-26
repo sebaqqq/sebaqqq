@@ -24,7 +24,7 @@
   "name": "Sebastián Quintana",
   "role": "Full Stack Developer",
   "location": "🌎 Chile",
-  "experience": "5+ years",
+  "experience": "1 years",
   "specialization": [
     "Web Applications",
     "API Development",
