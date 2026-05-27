@@ -1,121 +1,175 @@
 <!--
   Sebastián Quintana · Full Stack Developer
-  SEO: Full Stack Developer Chile · React Developer · Next.js Developer · Frontend Developer · JavaScript · TypeScript · Node.js · Disponible para trabajo · Open to work
+  SEO: Full Stack Developer Chile · React · Next.js · Node.js · TypeScript · Open to work
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sebastián%20Quintana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20React%20·%20Next.js%20·%20Node.js&descAlignY=58&descSize=18&animation=fadeIn" alt="Sebastián Quintana — Full Stack Developer" />
+```ascii
+   ____       _                _   _             ___
+  / ___|  ___| |__   __ _ ___ | |_(_) __ _ _ __  / _ \
+  \___ \ / _ \ '_ \ / _` / __|| __| |/ _` | '_ \| | | |
+   ___) |  __/ |_) | (_| \__ \| |_| | (_| | | | | |_| |
+  |____/ \___|_.__/ \__,_|___(_)__|_|\__,_|_| |_|\__\_\
+                                                  .qqq
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Seba+%F0%9F%91%8B;Full+Stack+Developer+desde+Chile+%F0%9F%87%A8%F0%9F%87%B1;Construyo+aplicaciones+web+de+principio+a+fin;Abierto+a+nuevas+oportunidades+%F0%9F%9A%80)](https://git.io/typing-svg)
+```bash
+$ whoami
+> sebastián quintana · full stack developer · chile 🇨🇱
 
-<p>
-  <a href="https://www.linkedin.com/in/sebastianquintanag/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://portafoliosebastianquintana.web.app/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:sgquintana2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://komarev.com/ghpvc/?username=sebaqqq&color=blueviolet&style=for-the-badge&label=Visitas+al+perfil" alt="Profile views"/>
-</p>
+$ cat ./status.txt
+> [████████████████████] open_to_work=true
+```
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/sebastianquintanag/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=googlechrome&logoColor=58a6ff)](https://portafoliosebastianquintana.web.app/)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:sgquintana2002@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=sebaqqq&color=58a6ff&style=flat-square&label=visitors)](https://github.com/sebaqqq)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+```bash
+$ cat ~/about.md
+```
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=sebaqqq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+```yaml
+sebastian:
+  role:       "Full Stack Developer"
+  location:   "Chile 🇨🇱"
+  focus:      ["React", "Next.js", "Node.js"]
+  learning:   ["TypeScript avanzado", "arquitectura de software"]
+  available:  true
+  remote:     true
+  contact:    "sgquintana2002@gmail.com"
+```
 
-Soy **Sebastián Quintana**, desarrollador **Full Stack** con base en **Chile**, especializado en **React**, **Next.js** y **Node.js**. Disfruto diseñar y construir productos web escalables, con foco en **rendimiento**, **mantenibilidad** y **buena experiencia de usuario**.
-
-- 🔭 **Actualmente:** construyendo proyectos con **React · Next.js · Node.js**
-- 🌱 **Aprendiendo:** **TypeScript avanzado** y **arquitectura de software**
-- 💼 **Disponible para trabajo full-time** — remoto, híbrido o presencial
-- 📬 **Contacto:** [sgquintana2002@gmail.com](mailto:sgquintana2002@gmail.com)
-- 🌍 **Ubicación:** Chile · abierto a reubicación
-
-<br clear="right"/>
-
----
-
-## 🛠️ Stack tecnológico
-
-> Tecnologías y herramientas que utilizo a diario para construir productos de calidad.
-
-<details open>
-<summary><b>Frontend</b></summary>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Backend &amp; Bases de datos</b></summary>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Herramientas &amp; DevOps</b></summary>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
+> Construyo aplicaciones web de principio a fin. Me motiva el código limpio,
+> el rendimiento real (no el "se ve rápido") y los problemas que obligan a
+> leer documentación de verdad. Siempre abierto a hablar con otros devs.
 
 ---
 
-## 📊 GitHub en números
+```bash
+$ ls ./stack/
+```
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**`frontend/`**
+
+```
+├── react
+├── next.js
+├── typescript
+├── javascript
+├── tailwindcss
+└── html5 + css3
+```
+
+</td>
+    <td valign="top" width="33%">
+
+**`backend/`**
+
+```
+├── node.js
+├── express
+├── postgresql
+├── mongodb
+└── supabase
+```
+
+</td>
+    <td valign="top" width="33%">
+
+**`tooling/`**
+
+```
+├── git + github
+├── docker
+├── vercel
+├── vs code
+└── linux
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+```bash
+$ git log --oneline ./career/
+```
+
+```
+* HEAD -> actualmente · full stack developer
+|   working on: proyectos con react · next.js · node.js
+|   tags: open-to-work, remoto, híbrido, presencial
+|
+* [tu rol más reciente] · [empresa]
+|   stack: react, next.js, node.js, postgresql
+|   highlights: [logro medible, ej: "redujo TTI en 40%"]
+|
+* [rol anterior] · [empresa]
+|   stack: javascript, node.js, mongodb
+|   highlights: [logro medible]
+|
+* (root) [educación o primer rol]
+    formación + bases técnicas
+```
+
+> 💡 _Edita esta sección con tu experiencia real. Mantén el formato `git log`
+> para que se sienta consistente con el resto del README._
+
+---
+
+```bash
+$ neofetch --github-stats
+```
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sebaqqq&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaqqq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sebaqqq&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sebaqqq&theme=github-dark&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sebaqqq&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaqqq&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🤝 Hablemos
+```bash
+$ ./contact.sh --networking
+```
 
 <div align="center">
 
-¿Tienes un proyecto o una oportunidad laboral? Me encantaría escucharte.
+> Si te interesa colaborar, hablar de código, o simplemente conectar con
+> otro dev — escríbeme. No muerdo (excepto los bugs).
 
-<a href="https://www.linkedin.com/in/sebastianquintanag/"><img src="https://img.shields.io/badge/LinkedIn-Sebastián%20Quintana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portafoliosebastianquintana.web.app/"><img src="https://img.shields.io/badge/Portfolio-Ver%20mi%20trabajo-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:sgquintana2002@gmail.com"><img src="https://img.shields.io/badge/Email-sgquintana2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/sebastianquintanag-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sebastianquintanag/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portafoliosebastianquintana-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://portafoliosebastianquintana.web.app/)
+[![Email](https://img.shields.io/badge/Email-sgquintana2002%40gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sgquintana2002@gmail.com)
 
 </div>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" alt="footer"/>
+```bash
+$ exit
+> Connection to sebaqqq closed. Thanks for stopping by.
+```
 
-<sub>⭐ Si te gustó mi trabajo, no dudes en darle una estrella a mis repos. ¡Gracias por visitar mi perfil!</sub>
+<sub>⭐ <i>Si algún repo te sirvió, una estrella siempre se agradece.</i></sub>
 
 </div>
-
-<!--
-  Keywords para indexación:
-  Full Stack Developer Chile · React Developer · Next.js Developer ·
-  JavaScript Developer · Frontend Developer · Node.js · TypeScript ·
-  Desarrollador web Chile · disponible para trabajo · open to work
--->
