@@ -1,9 +1,14 @@
-<!--
-  Sebastián Quintana · Full Stack Developer
-  SEO: Full Stack Developer Chile · React · Next.js · Node.js · TypeScript · Open to work
--->
+<!-- ╭──────────────────────── terminal window ────────────────────────╮ -->
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td align="left" width="80">🔴 &nbsp; 🟡 &nbsp; 🟢</td>
+<td align="center"><sub><code>guest@sebaqqq: ~ — zsh</code></sub></td>
+<td align="right" width="80"><sub><code>80×24</code></sub></td>
+</tr>
+</table>
 
 ```ascii
    ____       _                _   _             ___
@@ -14,17 +19,11 @@
                                                   .qqq
 ```
 
-```bash
-$ whoami
-> sebastián quintana · full stack developer · chile 🇨🇱
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7CE38B&center=true&vCenter=true&width=620&lines=guest%40sebaqqq%3A~%24+whoami;%3E+sebasti%C3%A1n+quintana+%C2%B7+full+stack+dev;%3E+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+open_to_work%3Dtrue;guest%40sebaqqq%3A~%24+type+help+_)](#)
 
-$ cat ./status.txt
-> [████████████████████] open_to_work=true
-```
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/sebastianquintanag/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=googlechrome&logoColor=58a6ff)](https://portafoliosebastianquintana.web.app/)
-[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:sgquintana2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/sebastianquintanag/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff)](https://portafoliosebastianquintana.web.app/)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:sgquintana2002@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=sebaqqq&color=58a6ff&style=flat-square&label=visitors)](https://github.com/sebaqqq)
 
 </div>
@@ -32,18 +31,35 @@ $ cat ./status.txt
 ---
 
 ```bash
-$ cat ~/about.md
+guest@sebaqqq:~$ help
+```
+
+| comando | descripción |
+|---|---|
+| `about` | quién soy |
+| `stack` | tecnologías que uso |
+| `career` | historial profesional (git log) |
+| `projects` | proyectos destacados |
+| `contact` | cómo contactarme |
+| `status` | disponibilidad actual |
+| `neofetch` | resumen del sistema |
+| `clear` | limpiar la terminal |
+
+---
+
+```bash
+guest@sebaqqq:~$ cat ~/about.md
 ```
 
 ```yaml
 sebastian:
-  role:       "Full Stack Developer"
-  location:   "Chile 🇨🇱"
-  focus:      ["React", "Next.js", "Node.js"]
-  learning:   ["TypeScript avanzado", "arquitectura de software"]
-  available:  true
-  remote:     true
-  contact:    "sgquintana2002@gmail.com"
+  role:      "Full Stack Developer"
+  location:  "Chile 🇨🇱"
+  focus:     ["React", "Next.js", "Node.js"]
+  learning:  ["TypeScript avanzado", "arquitectura de software"]
+  available: true
+  remote:    true
+  contact:   "sgquintana2002@gmail.com"
 ```
 
 > Construyo aplicaciones web de principio a fin. Me motiva el código limpio,
@@ -53,12 +69,12 @@ sebastian:
 ---
 
 ```bash
-$ ls ./stack/
+guest@sebaqqq:~$ ls ./stack/
 ```
 
 <table>
-  <tr>
-    <td valign="top" width="33%">
+<tr>
+<td valign="top" width="33%">
 
 **`frontend/`**
 
@@ -72,7 +88,7 @@ $ ls ./stack/
 ```
 
 </td>
-    <td valign="top" width="33%">
+<td valign="top" width="33%">
 
 **`backend/`**
 
@@ -85,7 +101,7 @@ $ ls ./stack/
 ```
 
 </td>
-    <td valign="top" width="33%">
+<td valign="top" width="33%">
 
 **`tooling/`**
 
@@ -98,13 +114,13 @@ $ ls ./stack/
 ```
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
 
 ```bash
-$ git log --oneline ./career/
+guest@sebaqqq:~$ git log --oneline ./career/
 ```
 
 ```
@@ -124,36 +140,31 @@ $ git log --oneline ./career/
     formación + bases técnicas
 ```
 
-> 💡 _Edita esta sección con tu experiencia real. Mantén el formato `git log`
-> para que se sienta consistente con el resto del README._
-
 ---
 
 ```bash
-$ neofetch --github-stats
+guest@sebaqqq:~$ neofetch --github-stats
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sebaqqq&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sebaqqq&theme=github-dark&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sebaqqq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaqqq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaqqq&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top Languages"/>
+<img height="165" src="https://streak-stats.demolab.com?user=sebaqqq&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
 ---
 
 ```bash
-$ ./contact.sh --networking
+guest@sebaqqq:~$ ./contact.sh --networking
 ```
-
-<div align="center">
 
 > Si te interesa colaborar, hablar de código, o simplemente conectar con
 > otro dev — escríbeme. No muerdo (excepto los bugs).
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/sebastianquintanag-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sebastianquintanag/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portafoliosebastianquintana-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://portafoliosebastianquintana.web.app/)
@@ -163,13 +174,23 @@ $ ./contact.sh --networking
 
 ---
 
-<div align="center">
-
 ```bash
-$ exit
+guest@sebaqqq:~$ exit
 > Connection to sebaqqq closed. Thanks for stopping by.
 ```
 
-<sub>⭐ <i>Si algún repo te sirvió, una estrella siempre se agradece.</i></sub>
+<table width="100%">
+<tr>
+<td align="left"><sub>🟢 <code>open_to_work=true</code></sub></td>
+<td align="center"><sub>tab: autocompletar · ↑/↓: historial · ctrl+l: limpiar</sub></td>
+<td align="right"><sub>type <code>help</code></sub></td>
+</tr>
+</table>
+
+<div align="center">
+
+⭐ _Si algún repo te sirvió, una estrella siempre se agradece._
 
 </div>
+
+<!-- ╰─────────────────────────────────────────────────────────────────╯ -->
