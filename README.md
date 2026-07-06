@@ -1,5 +1,3 @@
-<!-- ╭──────────────────────────── terminal ────────────────────────────╮ -->
-
 <div align="center">
 
 <table width="100%">
@@ -189,5 +187,3 @@ sebaqqq@github:~$ ./contact.sh
 <div align="center">
 <sub><code>sebaqqq@github:~$ exit</code> · Connection closed. Thanks for stopping by.</sub>
 </div>
-
-<!-- ╰───────────────────────────────────────────────────────────────────╯ -->
